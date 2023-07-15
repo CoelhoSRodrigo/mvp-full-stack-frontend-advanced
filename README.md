@@ -1,1 +1,0 @@
-# mvp-full-stack-frontend-advanced
